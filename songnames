@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
+    <h1 img class="border"> song names!!!</h1>
+    <hr>
+    <ul style="color: #3d4756;
+               font-family:monospace;"
+        img class="border">
+      <li>INDUSTRY BABY</li>
+      <li>MONTERO</li>
+      <li>Star Walkin'</li>
+      <li>Old Town Road</li>
+      <li>HOLIDAY</li>
+      <img style="width:200px;
+                  border-radius:15px;
+                  border-style:double;" src="puffernasx.jpg" alt="pufferboi">
+      <a href="index.html"> 
+        <img style="
+                    border-style:solid;
+                    border-radius:6px;
+                    border-color:#3d4756;
+                    border-width: 1px;
+                    width:111px;"
+             src="home.png"
+             alt="home"/></a>
+    </ul>
+  </body>
+</html>
